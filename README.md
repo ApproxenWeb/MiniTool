@@ -1,7 +1,7 @@
 # **MiniTool® Data Recovery Software**
 [PRO version 12.1]
 -------------
-![alt-текст](https://i.imgur.com/b73wp8S.jpeg)
+![alt-текст](https://i.imgur.com/7gZJCe5.png)
 # Closed version for developers and promoters
 ### 💻  Only for Windows 7/8/8.1/10
 #### System Requirements:
@@ -23,7 +23,7 @@
 * Повреждение жесткого диска.
 * Быстрое восстановление конкретного местоположения файла.
 
-![alt-текст](https://i.imgur.com/nYfYOyS.jpeg)
+![alt-текст](https://i.imgur.com/FB9OPqX.jpeg)
 
 ### Описание:
 #
