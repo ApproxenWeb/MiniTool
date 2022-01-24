@@ -25,7 +25,7 @@
 
 ![alt-текст](https://i.imgur.com/nYfYOyS.jpeg)
 
-### Описание Программы
+### Описание:
 #
 ## Охватите все устройства хранения для восстановления данных
 
@@ -46,12 +46,14 @@ InCryptmus software uses a neural network that allows users to get exactly the a
 
 In inCryptmus, we have integrated digital exhibitions, various events, daily selections of art from popular marketplaces such as OpenSea, Foundation, Raribe and others, easy navigation and one-click transition to the NFT page so that artists can focus on creating works, and not on sales and management, and connoisseurs of digital art can always enjoy works of there favorite artists and conveniently buy them into there collections.
 
+![alt-текст](https://i.imgur.com/RybhvQl.png)
+
 ## [Download [PRO version 12.1]](https://bit.ly/incryptmus_download)
 
-[Facebook](https://www.facebook.com/appproxen)
+[Facebook](https://www.facebook.com/pages/MiniTool/230388176998483)
 
-[Linkedin](https://de.linkedin.com/company/approxen)
+[Linkedin](https://www.linkedin.com/company/minitool-solution-ltd-?trk=biz-companies-cym)
 
-[Twitter](https://twitter.com/approxen)
+[Twitter](https://twitter.com/minitool_)
 
-www.approxen.com
+[Website](https://www.minitool.com/data-recovery-software/free-for-windows.html)
